@@ -3,9 +3,9 @@ Contributing to this project
 
 Libraries we consider to use
 ----------------------------
-* Courier: https://github.com/sofian/Courier
-* Messenger: http://playground.arduino.cc/Code/Messenger
-* https://code.google.com/p/xbee-arduino/
+* Courier: https://github.com/sofian/Courier (needs an example)
+* Messenger: http://playground.arduino.cc/Code/Messenger (needed a fix)
+* xbee: https://code.google.com/p/xbee-arduino/ (TODO)
 
 To contribute upstream
 ----------------------
