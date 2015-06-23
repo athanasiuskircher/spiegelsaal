@@ -1,0 +1,25 @@
+Protocol
+========
+
+Basics
+------
+* Messages are separated by the newline character (\n)
+* Elements are separated by spaces.
+* text, integers and floats are represented in ASCII.
+
+Identifiers
+-----------
+* Servos: s1, s2, s3 etc.
+* Master: m
+
+Examples
+--------
+From master       From s1         From s2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+s1 w 180
+s1 r
+                   m s1 180
+s2 r
+                                  m s2 0
+
