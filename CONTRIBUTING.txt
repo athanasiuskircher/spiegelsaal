@@ -1,0 +1,7 @@
+Contributing to this project
+============================
+
+Libraries we consider to use
+----------------------------
+* Courier: https://github.com/sofian/Courier
+
