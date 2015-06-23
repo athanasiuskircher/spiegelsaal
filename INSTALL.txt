@@ -3,5 +3,6 @@ Installation
 
 Arduino libraries
 -----------------
-* Messenger: http://playground.arduino.cc/Code/Messenger
+* Messenger: http://playground.arduino.cc/Code/Messenger (Change #include "WProgram.h" for #include <Arduino.h>)
+
 
