@@ -7,3 +7,7 @@ Libraries we consider to use
 * Messenger: http://playground.arduino.cc/Code/Messenger
 * https://code.google.com/p/xbee-arduino/
 
+To contribute upstream
+----------------------
+Fixed Messenger.cpp: needed to include Arduino.h, not WProgram.h
+
